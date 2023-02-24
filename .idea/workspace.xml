@@ -5,20 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="997254ab-3077-4973-8634-49890070e914" name="Changes" comment="【add】自定义类加载器 学习">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/MyClassLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/Test_ClassLoaderLearn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/Test_ClassLoaderLearn_001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/Test_ClassLoaderLearn_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9fe84ebb15faf917b7def6236dba604453cc61e0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/JMM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/T04_Disorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/Test_CacheLine_001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/Test_CacheLine_002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/Test_Compiler_Exe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/Test_Lazy_Loading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/leedcode/practice/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/leedcode/practice/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/learnclassloader/Client.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +38,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -44,42 +54,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Client">
-    <configuration name="ApplePaid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ApplePaid" />
-      <module name="test-jvm-code-parctice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.learnclassloader.Client" />
+}</component>
+  <component name="RunManager" selected="Application.T04_Disorder">
+    <configuration name="T04_Disorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.learnclassloader.T04_Disorder" />
       <module name="test-jvm-code-parctice" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.learnclassloader.Test_ClassLoaderLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.learnclassloader.Test_ClassLoaderLearn" />
+    <configuration name="Test_CacheLine_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.learnclassloader.Test_CacheLine_001" />
       <module name="test-jvm-code-parctice" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +101,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.learnclassloader.Test_ClassLoaderLearn_001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test_CacheLine_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.learnclassloader.Test_CacheLine_002" />
+      <module name="test-jvm-code-parctice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.learnclassloader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test_Lazy_Loading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.learnclassloader.Test_Lazy_Loading" />
+      <module name="test-jvm-code-parctice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.learnclassloader.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.learnclassloader.Test_ClassLoaderLearn_001" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.learnclassloader.Test_ClassLoaderLearn_001" />
       <module name="test-jvm-code-parctice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.learnclassloader.*" />
+          <option name="PATTERN" value="org.example.leedcode.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,8 +140,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.learnclassloader.Test_ClassLoaderLearn_002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.learnclassloader.Test_ClassLoaderLearn_002" />
+    <configuration name="org.example.learnclassloader.Test_Compiler_Exe" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.learnclassloader.Test_Compiler_Exe" />
       <module name="test-jvm-code-parctice" />
       <extension name="coverage">
         <pattern>
@@ -130,13 +153,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.leedcode.practice.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.leedcode.practice.Test" />
+      <module name="test-jvm-code-parctice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.leedcode.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.org.example.learnclassloader.Test_ClassLoaderLearn_001" />
+      <item itemvalue="Application.org.example.learnclassloader.Test_Compiler_Exe" />
+      <item itemvalue="Application.T04_Disorder" />
+      <item itemvalue="Application.Test_CacheLine_001" />
+      <item itemvalue="Application.Test_CacheLine_002" />
+      <item itemvalue="Application.org.example.learnclassloader.Test_Lazy_Loading" />
+      <item itemvalue="Application.org.example.leedcode.practice.Test" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.org.example.learnclassloader.Test_ClassLoaderLearn_002" />
-        <item itemvalue="Application.org.example.learnclassloader.Test_ClassLoaderLearn_001" />
-        <item itemvalue="Application.org.example.learnclassloader.Test_ClassLoaderLearn" />
-        <item itemvalue="Application.ApplePaid" />
+        <item itemvalue="Application.T04_Disorder" />
+        <item itemvalue="Application.Test_CacheLine_002" />
+        <item itemvalue="Application.Test_CacheLine_001" />
+        <item itemvalue="Application.org.example.learnclassloader.Test_Lazy_Loading" />
+        <item itemvalue="Application.org.example.leedcode.practice.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -148,8 +193,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676947191671</updated>
-      <workItem from="1676947192864" duration="12719000" />
+      <workItem from="1676947192864" duration="17655000" />
+      <workItem from="1677159572826" duration="15737000" />
     </task>
+    <task id="LOCAL-00001" summary="【add】自定义类加载器 学习">
+      <created>1676965509640</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676965509640</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

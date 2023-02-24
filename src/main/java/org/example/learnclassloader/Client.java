@@ -13,5 +13,7 @@ public class Client {
         Object object = aClass.newInstance();
         Method hello = aClass.getDeclaredMethod("hello");
         hello.invoke(object);
+
+
     }
 }

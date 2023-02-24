@@ -11,12 +11,15 @@
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-compiler-plugin</artifactId>
                 <configuration>
-                    <source>7</source>
-                    <target>7</target>
+                    <source>8</source>
+                    <target>8</target>
                 </configuration>
             </plugin>
         </plugins>
     </build>
+    <modules>
+        <module>multithread</module>
+    </modules>
     <name>test-jvm-code-parctice Maven Mojo</name>
     <url>http://maven.apache.org</url>
     <dependencies>
