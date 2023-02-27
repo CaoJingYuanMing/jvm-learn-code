@@ -1,9 +1,6 @@
 package org.example.leedcode.practice;
 
-
-import org.example.leedcode.practice.ListNode;
-
-public class Test {
+public class AddTwoNumber {
     public static void main(String[] args) {
         // 十位数
 //        System.out.println(2 / 10);
@@ -111,6 +108,4 @@ public class Test {
         }
         return head;
     }
-
 }
-
